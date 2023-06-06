@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Fix xyxyxyxyn calculation in obb result (#8188)
