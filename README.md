@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
