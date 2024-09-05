@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Update neural-magic.md (#7347)
